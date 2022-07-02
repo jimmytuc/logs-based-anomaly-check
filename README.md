@@ -35,3 +35,6 @@ Highlight which application logs are the most problematic the administrators sho
 
 # Far Term Goals
 Once we know what behavior is abnormal can we take action to remediate the issue? Or when we get warning signs can we take pre-emptive actions? This is a stretch goal in the horizon for the future of this project. But out of scope at this time.
+
+# Architecture
+![log-detector](https://user-images.githubusercontent.com/3124405/176983523-a6962309-2d83-4eac-953e-3f33101fb154.png)
